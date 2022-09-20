@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there, I'm Oleg 👋
-- I am currently learning react
+- I am currently learning Node.js
 
 ## I use in my work
 
