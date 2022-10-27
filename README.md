@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Oleg 👋
-- I am currently learning Node.js
+## Hi there, I'm Oleg Fullstack developer 👋
 
 ## I use in my work
 
