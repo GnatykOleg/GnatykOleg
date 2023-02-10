@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GnatykOleg)](https://github.com/anuraghazra/github-readme-stats)
 
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GnatykOleg"/> </a>
 
 
 
